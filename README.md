@@ -1,6 +1,6 @@
 # AskDB
 
-**Live website:** https://ask-db-jateen.netlify.app · [![CI](https://github.com/jateenyadav/ask-db/actions/workflows/ci.yml/badge.svg)](https://github.com/jateenyadav/ask-db/actions/workflows/ci.yml)
+**Live demo:** coming soon (needs free API keys; run it locally in 2 minutes, see below) · [![CI](https://github.com/jateenyadav/ask-db/actions/workflows/ci.yml/badge.svg)](https://github.com/jateenyadav/ask-db/actions/workflows/ci.yml)
 
 Ask your data a question in plain English. Get the SQL, a table and a chart.
 
